@@ -1,4 +1,4 @@
-package com.techmeskills.homework_8;
+package com.techmeskills.homework_8.doctor;
 
 /**
  *Создать программу для имитации работы клиники.
@@ -13,7 +13,7 @@ package com.techmeskills.homework_8;
  * Если план лечения имеет любой другой код – назначить терапевта и выполнить метод
  * лечить.
  */
- abstract class Doctor {
+ public abstract class Doctor {
 
      abstract void treatPatient();
 }

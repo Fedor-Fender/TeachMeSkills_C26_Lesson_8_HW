@@ -1,5 +1,8 @@
 package com.techmeskills.homework_8;
 
+import com.techmeskills.homework_8.doctor.Patient;
+import com.techmeskills.homework_8.doctor.Therapist;
+
 public class TestProgramClinik {
     public static void main(String[] args) {
 

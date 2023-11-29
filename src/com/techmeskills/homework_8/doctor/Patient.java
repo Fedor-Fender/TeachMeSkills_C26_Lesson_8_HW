@@ -1,4 +1,4 @@
-package com.techmeskills.homework_8;
+package com.techmeskills.homework_8.doctor;
 
 public class Patient {
 

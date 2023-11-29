@@ -1,4 +1,6 @@
-package com.techmeskills.homework_8;
+package com.techmeskills.homework_8.doctor;
+
+import com.techmeskills.homework_8.doctor.Doctor;
 
 public class Surgeon extends Doctor {
     @Override
