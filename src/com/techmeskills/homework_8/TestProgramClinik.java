@@ -11,6 +11,8 @@ public class TestProgramClinik {
         Patient patient2 = new Patient(2);
         Patient patient3 = new Patient(3);
 
+        patient1.setPlanTreatment(3);
+
 //        to call method to find out how way of treatment match patient
         Therapist.findWayTreatment(patient1);
         Therapist.findWayTreatment(patient2);

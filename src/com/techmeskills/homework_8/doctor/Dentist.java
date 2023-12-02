@@ -4,5 +4,6 @@ public class Dentist extends Doctor {
     @Override
     public void treatPatient() {
         System.out.println("Treatment by a dentist");
+        System.out.println("Treatment by a dentist");
     }
 }

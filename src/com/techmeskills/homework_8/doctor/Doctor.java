@@ -14,6 +14,7 @@ package com.techmeskills.homework_8.doctor;
  * лечить.
  */
  public abstract class Doctor {
+    protected static int age;
 
      abstract void treatPatient();
 }
