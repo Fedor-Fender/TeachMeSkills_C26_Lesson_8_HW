@@ -16,6 +16,7 @@ public class Therapist extends Doctor {
         } else {
             Doctor doctor = new Therapist();
             doctor.treatPatient();
+
         }
     }
 }
